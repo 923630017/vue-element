@@ -32,7 +32,7 @@ const routes = [
     meta: {
       title: '详情信息',
       parents: [{
-        title: '关于我们',
+        title: '关于我们1',
         path: '/about',
       }],
     },
